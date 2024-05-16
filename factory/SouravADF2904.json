@@ -1,0 +1,9 @@
+{
+	"name": "SouravADF2904",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1913e77-5341-418b-9427-c0283f3ae778",
+		"tenantId": "c4501432-afa0-43a5-9322-9cc316ce7798"
+	}
+}
